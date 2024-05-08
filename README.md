@@ -19,3 +19,6 @@ Slackの開発者ポータルへのアクセス: Slack APIのウェブサイト�
 
 ## 3.命名規則の指定
 今回は、 '1-class-デザイン思考a-a'~ '1-class-デザイン思考a-z'を制作。
+
+
+<img width="342" alt="スクリーンショット 2024-05-08 19 12 53" src="https://github.com/tsubomilk/slack-ch-maker/assets/78514031/b1d1c206-db33-4a98-9d37-6f509feb9bbe">
