@@ -2,7 +2,7 @@ import requests
 import string
 
 # トークンの設定（セキュリティのため、通常は環境変数から読み込むことを推奨）
-token = 'slackappからコピーしてくる'
+token = 'xoxb-slackappからアクセストークンをコピーしてくる'
 headers = {'Authorization': f'Bearer {token}'}
 
 # チャンネルを作成する関数
