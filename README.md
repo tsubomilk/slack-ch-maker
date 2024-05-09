@@ -1,6 +1,7 @@
 # slackチャンネルを複数個同時に作る方法
-
-大学TAでslackワークスペースにA~Zの26個のチームチャンネルを作成する機会があり、作成に時間がかかるため、効率化を図るために、制作。
+大学授業のTeachingAssistantで、26個のチームチャンネルを一度に作成する機会があり、自動化するために作成。<br>
+<br>
+<img width="200" alt="スクリーンショット 2024-05-08 19 12 53" src="https://github.com/tsubomilk/slack-ch-maker/assets/78514031/b1d1c206-db33-4a98-9d37-6f509feb9bbe">
 
 ## 1.slack appをワークスペースにインストール
 ### ステップ1: Slack APIに登録する
@@ -21,4 +22,4 @@ Slackの開発者ポータルへのアクセス: Slack APIのウェブサイト�
 今回は、 '1-class-デザイン思考a-a'~ '1-class-デザイン思考a-z'を制作。
 
 
-<img width="342" alt="スクリーンショット 2024-05-08 19 12 53" src="https://github.com/tsubomilk/slack-ch-maker/assets/78514031/b1d1c206-db33-4a98-9d37-6f509feb9bbe">
+
